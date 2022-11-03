@@ -40,6 +40,7 @@ public class Main {
         users.add(ekaterina);
         users.add(ekaterina);
         users.add(ekaterina);
+        users.add(ekaterina);
         users.add(anastasiya);
         users.add(anastasiya);
         users.add(anastasiya);
